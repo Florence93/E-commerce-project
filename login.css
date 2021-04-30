@@ -1,0 +1,72 @@
+.body{
+    background-image: url("img15.jpeg");
+}
+.col-lg h3{
+    color: pink;
+    font-size: 30px;
+    margin-left: 200px;
+}
+.form-group label {
+    color: white;
+    font-weight: bold;
+    position: center;
+}
+.btn {
+    color: white;
+    font-weight: bold;
+}
+.submit {
+    background-color: pink;
+} 
+.ex77 a {
+    color: indianred;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+.ex45{
+    margin-left: 150px;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 3px;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.ex90{
+    margin-left: 120px;
+    margin-top: 20px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 3px;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+.ex45:hover {
+    text-decoration: none;
+    color:yellow;
+}
+.ex455{
+    background-image: url("img2.jpeg");
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ex32{
+    margin-left: 150px;
+    margin-top: 50px;
+    color: white;
+    font-weight: bold;
+    background-color: tomato;
+    padding: 1px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+
+
+
+
